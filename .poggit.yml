@@ -1,0 +1,8 @@
+--- # Poggit-CI Manifest. Open the CI at https://PRIVATE/ci/JaxkDev/Poggit-Test-Plugin
+build-by-default: true
+branches:
+- master
+projects:
+  Poggit-Test-Plugin:
+    path: ""
+...
