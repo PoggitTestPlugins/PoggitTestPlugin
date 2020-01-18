@@ -1,0 +1,7 @@
+--- # Poggit-CI Manifest. Open the CI at https://35099c44.ngrok.io/ci/JaxkDev/Poggit-Test-Plugin
+branches:
+- master
+projects:
+  Poggit-Test-Plugin:
+    path: ""
+...
