@@ -1,7 +1,0 @@
----
-branches:
-- master
-projects:
-  Poggit-Test-Plugin:
-    path: ""
-...
