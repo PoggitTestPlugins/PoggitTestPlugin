@@ -1,0 +1,8 @@
+---
+build-by-default: false
+branches:
+- master
+projects:
+  PoggitTestPlugin:
+    path: ""
+...
