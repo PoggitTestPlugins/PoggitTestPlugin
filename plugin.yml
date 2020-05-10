@@ -2,7 +2,7 @@
 name: TestPlugin
 author: JaxkDev
 description: Testing....
-version: 1.0.1
+version: 1.0.2
 api: 3.10.0
 main: JaxkDev\TestPlugin\Main
 
