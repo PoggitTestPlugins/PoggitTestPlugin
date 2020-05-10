@@ -8,9 +8,9 @@ main: JaxkDev\TestPlugin\Main
 
 commands:
   Hello:
-    description: "Hello command"
+    description: "Hello2 command"
     permission: hello.command
     usage: /hello
     permission-message: "No Hello."
-    aliases: ["hi","hey","yo","heya"]
+    aliases: ["hi"]
 ...
