@@ -7,9 +7,9 @@ api: 3.10.0
 main: JaxkDev\TestPlugin\Main
 
 commands:
-  huhhuh:
-    description: "huhhuh2 command"
-    permission: huh.command.huhhuh
-    usage: /huh <What is this>
-    permission-message: "Huh who are you."
+  Hello:
+    description: "Hello command"
+    permission: hello.command
+    usage: /hello
+    permission-message: "No Hello."
 ...
