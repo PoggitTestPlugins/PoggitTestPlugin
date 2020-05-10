@@ -8,7 +8,7 @@ main: JaxkDev\TestPlugin\Main
 
 commands:
   Hello:
-    description: "Hello 18 command"
+    description: "Hello 19 command"
     permission: hello.command
     usage: /hello
     permission-message: "No Hello."
