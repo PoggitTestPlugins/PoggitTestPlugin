@@ -2,13 +2,13 @@
 name: TestPlugin
 author: JaxkDev
 description: Testing....
-version: 1.0.2
+version: 1.0.0
 api: 3.10.0
 main: JaxkDev\TestPlugin\Main
 
 commands:
   Hello:
-    description: "Hello 13 command"
+    description: "Hello 14 command"
     permission: hello.command
     usage: /hello
     permission-message: "No Hello."
