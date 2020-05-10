@@ -12,5 +12,5 @@ commands:
     permission: hello.command
     usage: /hello
     permission-message: "No Hello."
-    aliases: ["hi2"]
+    aliases: ["hi3"]
 ...
