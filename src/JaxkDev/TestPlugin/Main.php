@@ -3,10 +3,6 @@ namespace JaxkDev\TestPlugin;
 
 use pocketmine\plugin\PluginBase;
 
-echo "Hmm";
-
-while(true){}; //phpstan
-
 class Main extends PluginBase{
 	public function onEnable(){
 		$this->getLogger()->info("Enabled.");
