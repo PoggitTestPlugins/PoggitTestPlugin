@@ -4,7 +4,7 @@ declare(strict_types=1);
 
 namespace JaxkDev\TestPlugin;
 
-use pocketmine\command\CommandSender
+use pocketmine\command\CommandSender;
 use pocketmine\command\Command;
 use pocketmine\command\PluginIdentifiableCommand;
 use pocketmine\plugin\Plugin;
