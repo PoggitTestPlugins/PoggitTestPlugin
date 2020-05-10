@@ -5,4 +5,11 @@ description: Testing...
 version: 1.0.0
 api: 3.10.0
 main: JaxkDev\TestPlugin\Main
+
+commands:
+  huhhuh:
+    description: "huhhuh2 command"
+    permission: huh.command.huhhuh
+    usage: /huh <What is this>
+    permission-message: "Huh who are you."
 ...
