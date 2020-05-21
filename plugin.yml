@@ -4,6 +4,7 @@ author: JaxkDev
 description: Testing...
 version: 1.0.0
 api: 3.10.0
+depend: bedcoreprotect
 main: JaxkDev\TestPlugin\Main
 
 commands:
