@@ -2,7 +2,7 @@
 branches:
 - master
 projects:
-  PoggitTestPlugin:
+  PoggitTestPlugins:
     path: /
     lang: '["en"]'
 ...
