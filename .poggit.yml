@@ -3,7 +3,6 @@ branches:
 - master
 projects:
   PoggitTestPlugin:
-    path: /
-    lang:
-    - en
+    path: ""
+    lang: [en]
 ...
