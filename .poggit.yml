@@ -4,5 +4,6 @@ branches:
 projects:
   PoggitTestPlugin:
     path: ""
-    lang: [en]
+    lang:
+    - en
 ...
