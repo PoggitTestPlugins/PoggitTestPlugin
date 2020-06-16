@@ -2,15 +2,15 @@
 name: TestPlugin
 author: JaxkDev
 description: Testing.........
-version: 1.0.0
+version: 1.0.1
 api: 3.10.0
 main: JaxkDev\TestPlugin\Main
 
 commands:
   Hello:
-    description: "Hello 18 command"
+    description: "Hello command"
     permission: hello.command
     usage: /hello
     permission-message: "No Hello."
-    aliases: ["hi3"]
+    aliases: ["hi"]
 ...
