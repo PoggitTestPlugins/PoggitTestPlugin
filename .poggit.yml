@@ -6,8 +6,4 @@ projects:
     path: ""
     lang:
     - en
-  PoggitTestTestPlugin:
-    path: ""
-    lang:
-    - en
 ...
