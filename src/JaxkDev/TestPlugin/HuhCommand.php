@@ -17,7 +17,7 @@ class HuhCommand extends Command implements PluginIdentifiableCommand{
 		parent::__construct($name);
 		$this->plugin = $plugin;
 		$this->setUsage("/huh <What> !");
-		$this->setDescription("Huh whats this...");
+		$this->setDescription("Huh whats this....");
 		$this->setPermission("huh.command.huh");
 	}
 
