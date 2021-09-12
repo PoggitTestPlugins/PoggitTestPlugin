@@ -6,7 +6,8 @@ version: 1.0.1
 api: 3.10.0
 main: JaxkDev\TestPlugin\Main
 
-depend: ["Unknown Plugin", "Should work"]
+depend: []
+extensions: ["Extension1","Extension2","Extension3"]
 
 commands:
   Hello:
