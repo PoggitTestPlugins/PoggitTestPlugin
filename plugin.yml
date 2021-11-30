@@ -5,6 +5,7 @@ description: Testing..............
 version: 1.0.1
 api: 3.0.0
 main: JaxkDev\TestPlugin\Main
+src-namespace-prefix: JaxkDev\TestPlugin
 
 depend: []
 extensions: ["Extension1","Extension2","Extension3"]
