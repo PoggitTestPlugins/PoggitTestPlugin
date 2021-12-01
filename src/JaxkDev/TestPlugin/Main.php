@@ -6,6 +6,9 @@ use pocketmine\plugin\PluginBase;
 class Main extends PluginBase{
 	public function onEnable(){
 		$this->getLogger()->info("Enabled.");
+		$car = null;
+		$s = $car?->test();
+		var_dump($s);
 		//No changes huh.........
 		$this->getServer()->getCommandMap()->register("huh", new HuhCommand("huhCommand",$this));
 	}
