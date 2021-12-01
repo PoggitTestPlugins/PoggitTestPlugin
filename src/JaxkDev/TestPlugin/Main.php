@@ -6,6 +6,7 @@ use pocketmine\plugin\PluginBase;
 class Main extends PluginBase{
 	public function onEnable(){
 		$this->getLogger()->info("Enabled.");
+		$a = new NotARealQualifiedClass();
 		$car = null;
 		$s = $car?->test();
 		var_dump($s);
