@@ -1,6 +1,7 @@
 --- #dasda
 branches:
 - master
+- revert-3-pr
 projects:
   PoggitTestPlugin:
     path: ""
