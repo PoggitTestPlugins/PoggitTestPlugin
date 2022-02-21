@@ -4,4 +4,7 @@ branches:
 projects:
   PoggitTestPlugin:
     path: ""
+    libs:
+      src: "PoggitTestPlugins/ConfigUpdater/ConfigUpdater"
+      version: "1.2.1"
 ...
