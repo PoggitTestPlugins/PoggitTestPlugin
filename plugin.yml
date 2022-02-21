@@ -2,13 +2,10 @@
 name: TestPlugin
 author: JaxkDev
 description: Testing...............
-version: 1.0.1
+version: 1.1.0
 api: 4.0.0
 main: JaxkDev\TestPlugin\Main
 src-namespace-prefix: JaxkDev\TestPlugin
-
-depend: []
-extensions: ["Extension1","Extension2","Extension3"]
 
 commands:
   Hello:
