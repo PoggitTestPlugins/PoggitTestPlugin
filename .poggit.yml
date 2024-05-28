@@ -4,5 +4,5 @@ branches:
 projects:
   PoggitTestPlugin:
     path: ""
-    icon: "icon.png"
+    icon: "https://raw.githubusercontent.com/Terpz710/KDR-PE/832fb216d9b37b06c4119efd38b6a10f382dabaf/icon.png"
 ...
