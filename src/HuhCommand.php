@@ -13,7 +13,7 @@ class HuhCommand extends Command implements PluginIdentifiableCommand{
 
 	private $plugin;
 
-	public mfunction __construct(string $name, $plugin){
+	public function __construct(string $name, $plugin){
 		parent::__construct($name);
 		$this->plugin = $plugin;
 		$this->setUsage("/huh <What> !");
