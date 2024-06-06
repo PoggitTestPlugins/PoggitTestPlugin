@@ -9,7 +9,7 @@ use pocketmine\command\Command;
 use pocketmine\command\PluginIdentifiableCommand;
 use pocketmine\plugin\Plugin;
 
-class HuhCommand extends Command implements PluginIdentifiableCommand{
+readonly class HuhCommand extends Command implements PluginIdentifiableCommand{
 
 	private $plugin;
 
