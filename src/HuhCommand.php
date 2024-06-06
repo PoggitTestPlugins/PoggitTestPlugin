@@ -21,7 +21,7 @@ class HuhCommand extends Command implements PluginIdentifiableCommand{
 		$this->setPermission("huh.command.huh");
 	}
 
-	public mfunction execute(CommandSender $sender, string $commandLabel, array $args){
+	public function execute(CommandSender $sender, string $commandLabel, array $args){
     $sender->sendMesssage("Huh");
     return true;
   }
