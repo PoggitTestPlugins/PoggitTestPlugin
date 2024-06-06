@@ -28,5 +28,9 @@ class HuhCommand extends Command implements PluginIdentifiableCommand{
 
 	public function getPlugin() : Plugin{
 		return $this->plugin;
+		echo "hi";
 	}
 }
+
+
+?>
