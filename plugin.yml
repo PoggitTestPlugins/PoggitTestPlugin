@@ -2,8 +2,8 @@
 name: TestPlugin
 author: JaxkDev
 description: Testing............................
-version: 1.1.0
-api: [3.0.0, 3.1.1, 4.0.4, 5.0.0, 5.12.0]
+version: 1.1.1
+api: [5.12.0]
 main: JaxkDev\TestPlugin\Main
 src-namespace-prefix: JaxkDev\TestPlugin
 
