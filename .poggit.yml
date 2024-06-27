@@ -1,11 +1,8 @@
---- #dmm,..
+--- #dmm,..nn
 branches:
 - master
 projects:
   PoggitTestPlugin:
     path: ""
     icon: "https://github.com/Terpz710/KDR-PE/blob/832fb216d9b37b06c4119efd38b6a10f382dabaf/icon.png"
-    libs:
-      - src: PoggitTestPlugins/PoggitTestVirion/pmforms
-        version: ^2.0.0
 ...
